@@ -1,0 +1,73 @@
+* {
+    font-family: sans-serif;
+}
+body {
+    background: url(createBeneficiary-bc.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.wrapper {   
+    text-align: center;
+}
+.wrapper-heading {
+
+}
+.wrapper-heading-style{
+    font-size: 1.75rem;
+    color: #fff;
+    font-weight: 400;
+    padding: 2%;
+    margin: 0;
+    letter-spacing: 0.1rem
+}
+
+.wrapper-box{
+    text-align: center;
+    border: 1px solid black;
+    background-color: #fff;
+    width: 40%;
+    margin-left: 30%;
+}
+.wrapper-box-size{
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper-form{
+    background-color: #fff;
+    width: 50%;
+    border: 5px solid #fff;
+    box-shadow: 1px 2px 3px 2px rgba(161, 161, 161, 0.22);
+    margin-top: 5%;
+/*    margin-left: 25%;*/
+}
+
+.footer{
+    width: 100%;
+    background-color: #7F7F94;
+}
+
+/*
+@media screen and (max-width: 500px){
+    .wrapper-box{
+        text-align: center;
+        border: 1px solid black;
+        background-color: #fff;
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        
+    }
+    
+    .wrapper-form{
+        background-color: #fff;
+        width: 100%;
+        border: 5px solid #fff;
+        box-shadow: 1px 2px 3px 2px rgba(161, 161, 161, 0.22);
+        margin-top: 5%;
+        margin-left: 0;
+        padding: 0;
+    }
+    
+}
+*/
